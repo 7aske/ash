@@ -1,0 +1,1 @@
+add_library(ashlib ashlib.c builtins.c)
